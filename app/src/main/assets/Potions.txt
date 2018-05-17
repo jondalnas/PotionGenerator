@@ -1,0 +1,529 @@
+d10 Title. This is a,
+
+<start>
+1. Potion.
+2. Elixir.
+3. Draught.
+4. Vial.
+5. Philter.
+6. Tonic.
+7. Brew.
+8. Ichor.
+9. Juice.
+10. Concoction.
+
+d100 Effect. The potions main effect is,
+
+<start>
+1. Healing. It instantly regenerates some health when drank.
+2. Vigor. Gives temporary health when drank.
+3. Vitality. It slowly regenerates health over a period of some hours.
+4. Might. It gives a bonus to attack rolls after drinking.
+5. Courage. Gives immunity to fear and some temporary inspiration.
+6. Giant Strength. It gives the user much more strength.
+7. Flame Resistance. It gives resistance to fire damage.
+8. Cold Resistance. It gives resistance to cold damage.
+9. Necro Resistance. Gives resistance to necrotic damage.
+10. Radiant Resistance. Gives resistance to radiant damage.
+11. Stoneskin. Gives resistance to martial damage.
+12. Acid Resistance. Gives resistance to acid.
+13. Lightning Resistance. Gives resistance to lightning damage.
+14. Succubus Charm. Makes the drinker irresistible to nearby people.
+15. Shielding. Gives the user a magical shield of energy.
+16. Flame Breath. Gives the user fire breath for a short time.
+17. Growth. Makes the user double in size.
+18. Shrinking. Makes the user half in size.
+19. Comprehension. Lets the user understand all languages.
+20. Fertility. Makes the user very fertile, almost certain to make a baby under its effects!
+21. Intimidation. Gives the user a huge booming voice that terrifies those around.
+22. Luck. It gives the user a temporary boost to luck.
+23. Mana. Gives the user more magical power to cast with.
+24. Arcane. Gives the user more powerful spells.
+25. Animal form. Makes the user turn into a random animal.
+26. Dreams. Makes the user get lost in a hallucinary dream world of their perfect dream.
+27. Nightmares. Makes the user get lost in a hallucinary dream world of their worst nightmares.
+28. Stamina. Gives the user more stamina and constitution.
+29. Fleet foot. Makes the user have more speed.
+30. Knowledge. Increases the users intelligence temporarily.
+31. The Bard. Increases the users temporarily.
+32. Disguise. Changes the users form to a disguised form of any race and appeance.
+33. Feast. Removes all hunger and thirst from the target.
+34. Youth. Makes the user grow some years younger.
+35. Age. Makes the user grow some years older.
+36. Furnace. Makes the user radiate with a damaging aura.
+37. Eagle Sight. Gives the user strong vision and a bonus to perception.
+38. Health. Cures all diseases and illnesses.
+39. Invulnerability. Freezes the user in stasis that makes them immune to damage but they cannot move or act.
+40. Riddle me gone. Gives the user the cure to a single riddle.
+41. Horrifying appearance. Makes the user look more ugly for a time.
+42. Beautiful appearance. Makes the user appear more attractive for a time.
+43. Swordsmanship. Makes the user more effective and versatile with a blade.
+44. Bowmanship. Makes the user more effective with a bow or ranged weapon.
+45. Nymph Breath. Gives water breathing.
+46. Midas. Makes the user turn things to gold.
+47. Berserker. Makes the user rage with great strength.
+48. Utter Hatred. Makes the user have bonuses against a particular type of enemy.
+49. Oracle. Lets the user divinate the future.
+50. Demonic Leech. Heals a portion of all damage the user deals.
+51. Fey Nature. Lets the user become one with animals and nature around them.
+52. Tracelessness. Makes the user very hard to follow.
+53. Gracefulness. Makes the user have a better acrobatics skill.
+54. Goblin Climb. Gives the user a bonus to climbing.
+55. Dead Ringer. Makes the user appear completely dead to all magic.
+56. One Leafed Clover. Gives the user worst luck.
+57. Possession. Lets the user gain control of a nearby creature, their body comatosed while they do.
+58. Owls Wake. Makes the user need no sleep for a time.
+59. Hawks Flight. Lets the user fly.
+60. Peace. Makes the user very calm and unable to harm others.
+61. Rejuvenation. Heals a single scar or bad injury on the user such as a missing arm.
+62. Sphinxes Truth. Makes the user tell the truth.
+63. Serpent Tongue. Makes the user only able to lie.
+64. Navigation. Makes the user unable to get lost and find where they need.
+65. Hook Horror. The users hands become sharp weaponised blades.
+66. Schaffensfreude. Makes the enemies take damage as they deal it to the user.
+67. Invisibility. Makes the user invisible.
+68. Wild magic. Taps into wild magic making an absolutely random thing happen.
+69. Fame. Makes the user more famous.
+70. Goats Trek. Makes the user immune to the toils of long travels and bad weather.
+71. Gargoyle Toughness. Increases the users constitution.
+72. Atomic Clock. Lets the user know the exact tme and date.
+73. Transmutation. Lets the user have the ability to change somethings properties.
+74. Iron Skin. Turns the users skin to metal giving them many resistances.
+75. Sex Change. Changes the users gender.
+76. Race Change. Changes the users race.
+77. Musical Breath. Makes the user say everything in song, and fey music follows them in the air.
+78. Utter Understanding. Makes the user know very intimately about one exact thing. Random, or they can decide.
+79. Split Form. The user turns into two or three tiny versions of themselves and controls them all.
+80. Flavour. Makes anything and everything taste amazing!
+81. Glimmer. Makes the user and its gear instantly clean and as good looking as possible.
+82. Love. Makes the user and someone else fall in love.
+83. Poison. Poisons the user, weakening them.
+84. Rebirth. Resurrects the user if they die soon after drinking.
+85. Elemental form. Turns the user to an elemental form relevant to their personality.
+86. True form. Turns the user into a familiar like creature similar to their personality.
+87. Gods Touch. Gives the user a holy connection to their god or fiendish deity.
+88. Antidepressant. Does what it says on the tin.
+89. Ghostly Form. Makes the user intangible and able to phase through objects.
+90. Artisans Skill. Gives the user skill in a particular art temporarily.
+91. Godly form. Improves all stats.
+92. Bless Weapon. Makes the users weapons do more damage.
+93. Euphoria. Makes the user feel amazing and trip out.
+94. Bodyguard. Creates a spectral bodyguard for a short time who obeys orders.
+95. Babelfish. Lets the user speak any language but not understand it.
+96. Preservation. Stops whatever its poured on from rotting or degrading.
+97. Fear. Makes the user terrified.
+98. Night vision. Gives the ability to see in the dark.
+99. Tracking. Lets the user track an enemy.
+100. Cure-all. Cures any status effects.
+
+d10 Strength. The potions strength is,
+
+<start>
+1. Regular with a slight side effect.
+2. Regular with no side effect.
+3. Regular with a strong side effect.
+4. Minor with a strong side effect.
+5. Minor with a slight side effect.
+6. Major with a strong side effect.
+7. Major with a small side effect.
+8. A poison. Almost no positive affect, all side effect.
+9. Temporary but strong and wears off quickly.
+10. Seemingly permanent.
+
+d100 Side Effect. The potion also causes (usually) temporary,
+
+<start>
+1. Nothing bad at all!
+2. Puts the user to sleep.
+3. Rapid hair growth all over the body.
+4. Bleeding from the eyes.
+5. Vivid hallucinations.
+6. Flashbacks of your own eventual demise.
+7. The skin to crack and appear distorted.
+8. Spots to grow on the skin.
+9. Explosive diarrhoea.
+10. Vomiting.
+11. Blurred Vision.
+12. Blindness.
+13. Deafness.
+14. Mutism.
+15. Health loss via rapid bleeding.
+16. A sudden horrific accent.
+17. The irresistible urge to dance.
+18. The hearing of demons.
+19. Loss of balance.
+20. Everything tasting like dirt for some time.
+21. Excessive drooling.
+22. Loss of intelligence.
+23. Loss of strength.
+24. Loss of speed.
+25. Loss of charisma.
+26. Genuine happiness.
+27. Hunger.
+28. Thirst.
+29. Trouble breathing.
+30. Sudden Moustache.
+31. Poisoning.
+32. Petrification.
+33. Stunning.
+34. Immobilisation.
+35. Increased libido.
+36. Fidgeting.
+37. Itchiness.
+38. Rashes.
+39. Attracts bears.
+40. Magically covers in dirt.
+41. Horrifying stench.
+42. Baldness.
+43. Swelling.
+44. Loss of a random item.
+45. Curses.
+46. Grumpy.
+47. Weakness to a magical damage type.
+48. Weakness to physical damage.
+49. Feelings of Guilt
+50. Feelings of Anxiety.
+51. Feelings of Shame.
+52. Sneezing.
+53. Uncontrollable crying.
+54. Need to sing heroic music.
+55. Urge to hug.
+56. Kleptomania.
+57. Burping.
+58. Loss of smell.
+59. Insomnia.
+60. Paranoia.
+61. Bad luck.
+62. Summons imps that want to kill you.
+63. Summons angry bees.
+64. Fear of something.
+65. Temporary madness.
+66. Relaxation.
+67. Appreciation of colours and sound.
+68. Tripping the hell out.
+69. Painful lust.
+70. Light headedness.
+71. Increased confidence.
+72. Recklessness.
+73. Rage.
+74. Sadness.
+75. Dizziness.
+76. Pain.
+77. Slight possession.
+78. Allergic reaction to your favourite food.
+79. Strong believe you're someone else.
+80. Severe debt.
+81. Grumpiness.
+82. Muscle spasms.
+83. A bloated feeling.
+84. A cold.
+85. A fever.
+86. Becoming strangely light.
+87. Weakness.
+88. The urge to fight.
+89. The need to make friends.
+90. Nausea.
+91. Mood swings.
+92. Addiction.
+93. Need for booze.
+94. Drunkeness.
+95. Coughing.
+96. Uncontrollable babbling.
+97. Slight aches.
+98. A bad taste for some time.
+99. Giddiness.
+100. Laughter.
+
+d20 Container. The potion is in a,
+
+<start>
+1. A conical smooth glass bottle.
+2. A square glass bottle.
+3. A not quite watertight leather waterskin.
+4. A stone flask.
+5. A metal thermos.
+6. A glass syringe.
+7. A small medical vial.
+8. A small shot sized bottle.
+9. A large metal bottle.
+10. A capped horn.
+11. An ornate very decorated glass bottle.
+12. A geometric diamond shaped bottle.
+13. A translucent long wine bottle.
+14. A translucent beer bottle.
+15. A leather pouch.
+16. An inhaler like spray bottle.
+17. A coloured bottle.
+18. A bone flask.
+19. A small metal vial.
+20. A large bottle that can be swigged several times.
+
+d20 Appearance. The potion looks,
+
+<start>
+1. Clear.
+2. Blue.
+3. Green.
+4. Red.
+5. Pale Green.
+6. Pink.
+7. Light Blue.
+8. White.
+9. Black.
+10. Dark Grey.
+11. Light grey.
+12. Yellow.
+13. Orange.
+14. Gold.
+15. Orange.
+16. Bronze.
+17. Metallic.
+18. Purple.
+19. Brown.
+20. Dark Red.
+
+d20 Appearance 2. With,
+
+<start>
+1. Flecks of colour.
+2. Swirls of colour.
+3. Fizzing bubbles.
+4. Bubbles suspended in it.
+5. Some kind of bone floating in it.
+6. Leaves and flowers in it.
+7. Two separating liquid.
+8. A bright glow.
+9. A soft glow.
+10. Stripes of colour.
+11. Translucency.
+12. A cloudy murkiness.
+13. Blood within it.
+14. Dirt floating in it.
+15. Chunks of metal in it.
+16. Some type of gore from a slain creature.
+17. Steam coming from it.
+18. A face in the liquid.
+19. Constantly moving and shifting liquid.
+20. A constant heat.
+
+d10 Texture. The potion is,
+
+<start>
+1. Thick and sludgy.
+2. Thin and watery.
+3. Airy and bubbly.
+4. Slimey.
+5. Almost solid.
+6. Oily.
+7. Chunky.
+8. Bitty.
+9. Milky.
+10. Almost gaseous.
+
+d100 Taste. The potion smells like (roll 1), but tastes like (roll 2),
+
+<start>
+1. Nothing at all.
+2. Sulphur.
+3. Fresh air.
+4. Baking cookies.
+5. Flowers.
+6. Rotting meat.
+7. Egg.
+8. Rotten eggs.
+9. Fresh bread.
+10. Blood.
+11. Home.
+12. Vomit.
+13. Garlic.
+14. Fruit.
+15. Chocolate.
+16. Beer.
+17. Smoke.
+18. Wood.
+19. Death.
+20. Orc.
+21. Wet dog.
+22. Wet goblin.
+23. Perfume.
+24. Cheap perfume.
+25. Musk.
+26. Garbage.
+27. Sand.
+28. The Forest.
+29. Nuts.
+30. Acidic.
+31. Spicy.
+32. Minty.
+33. Of chemicals.
+34. Dirt.
+35. Of something bad flavoured to taste better.
+36. Alcohol.
+37. Sugar.
+38. A damp cave.
+39. Strange.
+40. Indescribable but nice.
+41. Indescribable but horrid.
+42. Rain.
+43. Medical.
+44. Bacon.
+45. Coffee.
+46. Cut grass.
+47. Vanilla.
+48. The sea.
+49. Roast meat.
+50. Festive.
+51. Lavender.
+52. Lilac and Gooseberries.
+53. A fresh baby.
+54. A new car.
+55. Cirtrus.
+56. Leather.
+57. Metal.
+58. A forge.
+59. Fresh Cake.
+60. Paint.
+61. Wine.
+62. Polish.
+63. Cheese.
+64. Fish.
+65. Compost.
+66. The sewers.
+67. Apples.
+68. Holy oils.
+69. Massage oil.
+70. A brothel.
+71. Old fruit.
+72. Roses.
+73. Something that stirs memories.
+74. Gingerbread.
+75. Cinnamon.
+76. Candy.
+77. Fumes.
+78. Bark.
+79. Chicken.
+80. Beef.
+81. Human Flesh.
+82. Gunpowder.
+83. A storm.
+84. Success.
+85. Gold.
+86. Mayonnaise.
+87. Barbeque.
+88. Salt.
+89. Pepper.
+90. Aromatic spices.
+91. Fruit punch.
+92. Water.
+93. Fresh water.
+94. Stagnant water.
+95. Mud.
+96. A colour.
+97. Music.
+98. The end of the world.
+99. Magically the worst thing to you
+100. Magically the most desirable thing to you.
+
+d100 Label. The potion has a label showing,
+
+<start>
+1. Its name and title in bold letters.
+2. Its description in ornate elvish.
+3. Its description in elvish with a relevant mythic story.
+4. Its description on dwarven.
+5. Dwarven runes.
+6. Its description in gnomish.
+7. Gnomish diagrams for its use.
+8. The words USE ONLY IN EMERGANCIES scrawled on iti.
+9. A mass produced label claiming the company has no fault for any side effects.
+10. A mass produced label saying it's a new flavour.
+11. Very tiny print describing how the potion was made in great detail, around 1000 words.
+12. Its name in Bold words in Giant.
+13. Is scrawled off.
+14. Has faded beyond reading.
+15. Doesn't seem to have one.
+16. Its description and a random fact.
+17. Its description and a small compliment to make your day better.
+18. Its description and a joke.
+19. Its description in infernal.
+20. Its description in some ancient language.
+21. All in some kind of symbols.
+22. All in some kind of raised symbols for the blind to read.
+23. Its description in elemental languages.
+24. Its name and flavour.
+25. Its name with a warning about side effects.
+26. Its name and its recommended buying price.
+27. Bloody prints all over it.
+28. Name engraved into the container.
+29. Its name glowing with minor magic.
+30. A cartoony mascot.
+31. A warning of an ancient curse.
+32. Its name and description in invisible ink.
+33. Its description in draconic.
+34. Several different names and descriptions plastered over eachother.
+35. A name of a completely different potion to what it does.
+36. A title describing the exact opposite.
+37. A money back guarantee.
+38. A coupon for a free potion.
+39. A living face looking around.
+40. Its name and recipe for other alchemists.
+41. A heartfelt love letter for someone.
+42. A heartfelt hate letter for someone.
+43. A persons name. The potion wont work unless asked by its name to do so.
+44. A strange prophecy.
+45. A small doodle.
+46. A note saying DO NOT DRINK.
+47. A passive aggressive note about other people drinking potions that don't belong to them.
+48. Brightly glowing letters.
+49. That plays a very quiet sing song till the bottle is empty.
+50. Ornate and beautiful designs.
+51. Very practical designs.
+52. Holy symbols.
+53. Unholy symbols.
+54. Fey symbols and sylvan writing.
+55. A riddle, the lid not opening unless the riddle is solved.
+56. Saying its designed for babies.
+57. Saying that it shouldn't be drank by anyone under 18.
+58. A note saying its illegal contraband being confiscated.
+59. A note saying the alchemist thinks it is its greatest work.
+60. A note saying the alchemist is sorry for ever creating it.
+61. A note saying that it never should have been made and copius blood stains over the bottle.
+62. It says you're being watched. When the person checks it instead says Just Kidding.
+63. Its description in Druidic.
+64. Its description in orcish
+65. Its description in goblin.
+66. Its description in Halfling.
+67. Its description in Celestial.
+68. Its description in Undercommon.
+69. Its description in Deep speech.
+70. Its description in strange arcane symbols.
+71. A map of where the potion was made.
+72. A small puzzle for kids.
+73. A list of ingredients in their chemical forms.
+74. A list of possible side effects as long as the bottle is.
+75. A red X.
+76. A sad face.
+77. An angry face.
+78. A happy face.
+79. A healing symbol.
+80. A cheesy pun potion name.
+81. Growing with vines.
+82. Growing with flowers.
+83. Growing with crystals.
+84. Growing with rock.
+85. Shamanistic symbols and shavings.
+86. No words just a single colour.
+87. Water damage but a just legibale label.
+88. A label as if it was some kind of present.
+89. A label showing how many calories it is.
+90. A warning about potion abuse and to only take in moderation.
+91. A label with warnings and side effects all scribbled out.
+92. That only shows the side effects.
+93. A mysterious number.
+94. A code name.
+95. A few unrelated letters.
+96. The name of one of the party members.
+97. The name of the bad guy.
+98. Crawling with bugs.
+99. Covered in something unspeakable.
+100. Covered in glitter. It gets everywhere.
